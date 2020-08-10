@@ -1,6 +1,9 @@
 [Configuration]
-ColorPalette=#3f3f3f;#705050;#60b48a;#dfaf8f;#9ab8d7;#dc8cc3;#8cd0d3;#dcdcdc;#709080;#dca3a3;#72d5a3;#f0dfaf;#94bff3;#ec93d3;#93e0e3;#ffffff
-FontName=DejaVu Sans Mono 11
+ColorCursor=#dcdcdc
+ColorForeground=#eeeeeeeeecec
+ColorBackground=#000000000000
+ColorPalette=rgb(0,0,0);rgb(238,47,47);rgb(0,255,238);rgb(255,255,34);rgb(59,72,227);rgb(238,119,187);rgb(0,128,255);rgb(171,171,171);rgb(52,52,52);rgb(238,47,47);rgb(0,255,238);rgb(255,255,34);rgb(48,72,227);rgb(238,119,187);rgb(0,128,255);rgb(234,234,234)
+FontName=Iosevka Expanded 11
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
@@ -28,9 +31,7 @@ MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
-ColorForeground=#dcdcdc
-ColorBackground=#2c2c2c
-ColorCursor=#dcdcdc
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 BackgroundDarkness=0.970000
+FontAllowBold=FALSE
 

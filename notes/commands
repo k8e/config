@@ -9,3 +9,7 @@ Network Stuff
 nmcli
 nmtui
 
+Install Fonts
+cp -r fonts/* ~/.local/share/fonts
+fc-cache -v
+
