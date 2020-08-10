@@ -1,0 +1,7 @@
+Installing Polybar for i3 on Ubuntu
+
+Getting dependencies: https://github.com/polybar/polybar/wiki/Compiling#dependencies-1
+
+Building from source: https://github.com/polybar/polybar#building-from-source
+
+Setting up config: https://github.com/polybar/polybar/wiki

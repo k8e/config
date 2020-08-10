@@ -1,0 +1,3 @@
+[2020-08-08 23:02:14.546] [sharedprocess] [info] main {"machineId":"504a69918f498001a41e79163b2e201416b0c9b4f596b567829fab9457b21797","windowId":2}
+[2020-08-08 23:02:14.584] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/katie/.config/Code/User/snippets'
+[2020-08-08 23:02:54.561] [sharedprocess] [info] Starting to clean up unused language packs.

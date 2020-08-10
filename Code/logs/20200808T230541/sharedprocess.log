@@ -1,0 +1,8 @@
+[2020-08-08 23:05:44.743] [sharedprocess] [info] main {"machineId":"504a69918f498001a41e79163b2e201416b0c9b4f596b567829fab9457b21797","windowId":2}
+[2020-08-08 23:06:24.765] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-08 23:16:09.336] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2020-08-08 23:16:09.765] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/katie/.config/Code/CachedExtensionVSIXs/vscodevim.vim-1.16.0
+[2020-08-08 23:16:09.959] [sharedprocess] [info] Extracted extension to /home/katie/.vscode/extensions/.vscodevim.vim-1.16.0: vscodevim.vim
+[2020-08-08 23:16:09.966] [sharedprocess] [info] Renamed to /home/katie/.vscode/extensions/vscodevim.vim-1.16.0
+[2020-08-08 23:16:09.974] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2020-08-08 23:16:09.978] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
