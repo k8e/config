@@ -3,7 +3,7 @@ ColorCursor=#dcdcdc
 ColorForeground=#eeeeeeeeecec
 ColorBackground=#000000000000
 ColorPalette=rgb(0,0,0);rgb(238,47,47);rgb(0,255,238);rgb(255,255,34);rgb(59,72,227);rgb(238,119,187);rgb(0,128,255);rgb(171,171,171);rgb(52,52,52);rgb(238,47,47);rgb(0,255,238);rgb(255,255,34);rgb(48,72,227);rgb(238,119,187);rgb(0,128,255);rgb(234,234,234)
-FontName=Iosevka Expanded 11
+FontName=Iosevka Term Light Expanded 11
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
@@ -32,6 +32,6 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
-BackgroundDarkness=0.970000
+BackgroundDarkness=0.850000
 FontAllowBold=FALSE
 
